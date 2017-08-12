@@ -1,6 +1,6 @@
 ---
 title: About
-overview: true
+layout: default
 ---
 
 Hi!
