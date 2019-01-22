@@ -19,5 +19,4 @@ one two three
 #### hotpatching
 one two three
 #### vividperf
-
-[About](/about)
+one two three
